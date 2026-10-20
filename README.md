@@ -19,4 +19,6 @@ El servidor funciona en el puerto **3000**: http://localhost:3000.
 
 ## Video de presentación
 
+[![Video de presentación de la API de la Copa Libertadores](https://img.youtube.com/vi/ukrTFPUEgOA/hqdefault.jpg)](https://youtu.be/ukrTFPUEgOA)
+
 [Ver video en YouTube](https://youtu.be/ukrTFPUEgOA)
