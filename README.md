@@ -50,9 +50,8 @@ Para filtrar por país, primero buscamos su nombre en `paises`. Después filtram
 
 ## Video
 
-Pendiente: grabar el video y reemplazar esta línea por su enlace de YouTube accesible sin permisos. Consulta `GUIA-VIDEO.md`.
+[Ver demostración de la API en YouTube](https://youtu.be/ukrTFPUEgOA)
 
 ## Entrega pendiente
 
-- Grabar el video con tu voz y agregar su enlace aquí.
 - Entregar el enlace del repositorio en el LMS según el plazo del enunciado.
